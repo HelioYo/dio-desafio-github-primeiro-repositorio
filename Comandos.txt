@@ -2,4 +2,7 @@ Após as alterações na pasta local:
 git status (verifica alterações no diretório)
 git add . (adiciona as alterações a serem enviadas)
 git commit -m "mensagem" (adiciona uma mensagem referente às alterações)
+solicitou identificação:
+                        git config --global user.email "you@example.com"
+                        git config --global user.name "Your Name"
 git push origin main (envia tudo que foi declarado pelo commit para a nuvem)
